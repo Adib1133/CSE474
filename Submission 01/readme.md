@@ -2,7 +2,7 @@ Youtube unlisted video link: https://youtu.be/6As8qb1cJOo?list=PLrt91RztGiembmCo
 
 Link of the slide: https://docs.google.com/presentation/d/1FERQPrD0UYAhTzDeIgZhA2JgLMjR8pmP/edit?usp=sharing&ouid=105410639755544547922&rtpof=true&sd=true
 
-Paper Title: 
+Paper Title: Analyzing Production Scenarios through Simulation Models
 
 Group no. 27
 
