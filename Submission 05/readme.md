@@ -14,10 +14,10 @@ Group Number:
 4
 
 Group Members:
-21101194 Name: Anwar Kamal Sadat
-20301039 Name Arian Wazed
-20301002 Name Moinul Hossain Bhuiyan
-20301353 Name Nazia Ahmed Nijhum
+21101194 Name: Anwar Kamal Sadat;
+20301039 Name Arian Wazed;
+20301002 Name Moinul Hossain Bhuiyan;
+20301353 Name Nazia Ahmed Nijhum.
 
 
 We also correctly have uploaded slide.PPT here.
