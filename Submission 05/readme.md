@@ -11,7 +11,7 @@ Project title:
 Predicting Stock Market Trends through Monte Carlo Simulation
 
 Group Number:
-4
+27
 
 Group Members:
 21101194 Name: Anwar Kamal Sadat;
